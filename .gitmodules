@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "hipread"]
+	path = hipread
+	url = https://github.com/ipums/hipread
 [submodule "ipumsr"]
 	path = ipumsr
 	url = https://github.com/ipums/ipumsr
